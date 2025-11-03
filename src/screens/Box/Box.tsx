@@ -47,7 +47,7 @@ const workflowNodes = [
     id: "08",
     title: "Write offs /\nAdjustments",
     position: "top-[580px] left-[280px]",
-    badgePosition: "top-[125px] left-[45px]",
+    badgePosition: "-bottom-3 left-[50%] -translate-x-1/2",
   },
   {
     id: "09",

@@ -66,100 +66,10 @@ export const Box = (): JSX.Element => {
           style={{ zIndex: 0 }}
         >
           <line
-            x1="300"
-            y1="390"
-            x2="340"
-            y2="300"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="340"
-            y1="300"
-            x2="340"
-            y2="200"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="340"
-            y1="200"
-            x2="315"
-            y2="100"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="315"
-            y1="100"
-            x2="380"
-            y2="100"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
             x1="380"
-            y1="100"
-            x2="515"
-            y2="125"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="515"
-            y1="125"
-            x2="645"
-            y2="245"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="645"
-            y1="245"
-            x2="665"
-            y2="430"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="665"
-            y1="430"
-            x2="565"
-            y2="590"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="565"
-            y1="590"
-            x2="365"
-            y2="655"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="365"
-            y1="655"
-            x2="170"
-            y2="585"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="170"
-            y1="585"
-            x2="105"
-            y2="405"
+            y1="360"
+            x2="100"
+            y2="400"
             stroke="#c5d3e0"
             strokeWidth="2"
             opacity="0.6"
@@ -167,16 +77,7 @@ export const Box = (): JSX.Element => {
           <line
             x1="380"
             y1="360"
-            x2="300"
-            y2="390"
-            stroke="#c5d3e0"
-            strokeWidth="2"
-            opacity="0.6"
-          />
-          <line
-            x1="380"
-            y1="360"
-            x2="340"
+            x2="130"
             y2="200"
             stroke="#c5d3e0"
             strokeWidth="2"
@@ -185,8 +86,8 @@ export const Box = (): JSX.Element => {
           <line
             x1="380"
             y1="360"
-            x2="515"
-            y2="125"
+            x2="310"
+            y2="80"
             stroke="#c5d3e0"
             strokeWidth="2"
             opacity="0.6"
@@ -194,8 +95,8 @@ export const Box = (): JSX.Element => {
           <line
             x1="380"
             y1="360"
-            x2="645"
-            y2="245"
+            x2="515"
+            y2="100"
             stroke="#c5d3e0"
             strokeWidth="2"
             opacity="0.6"
@@ -204,7 +105,7 @@ export const Box = (): JSX.Element => {
             x1="380"
             y1="360"
             x2="665"
-            y2="430"
+            y2="200"
             stroke="#c5d3e0"
             strokeWidth="2"
             opacity="0.6"
@@ -212,8 +113,8 @@ export const Box = (): JSX.Element => {
           <line
             x1="380"
             y1="360"
-            x2="565"
-            y2="590"
+            x2="720"
+            y2="420"
             stroke="#c5d3e0"
             strokeWidth="2"
             opacity="0.6"
@@ -221,8 +122,8 @@ export const Box = (): JSX.Element => {
           <line
             x1="380"
             y1="360"
-            x2="365"
-            y2="655"
+            x2="650"
+            y2="620"
             stroke="#c5d3e0"
             strokeWidth="2"
             opacity="0.6"
@@ -230,8 +131,8 @@ export const Box = (): JSX.Element => {
           <line
             x1="380"
             y1="360"
-            x2="170"
-            y2="585"
+            x2="410"
+            y2="680"
             stroke="#c5d3e0"
             strokeWidth="2"
             opacity="0.6"
@@ -239,8 +140,8 @@ export const Box = (): JSX.Element => {
           <line
             x1="380"
             y1="360"
-            x2="105"
-            y2="405"
+            x2="140"
+            y2="600"
             stroke="#c5d3e0"
             strokeWidth="2"
             opacity="0.6"
